@@ -1,6 +1,6 @@
 #COMPONENT
 
-div>  
+<div>  
         <div className="hoc">
         <h2>HOC Example:<h1>This is the example created by HocComponent</h1></h2>  
         The App component wrapped inside another React component so that we can modify it. Thus, it becomes the primary application of the Higher-Order Components.
